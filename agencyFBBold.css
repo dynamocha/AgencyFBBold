@@ -1,8 +1,6 @@
 @font-face {
     font-family: 'AgencyFBBold';
-    src: url('https://raw.githubusercontent.com/dynamocha/AgencyFBBold/blob/main/AgencyFBBold.otf') format('otf'),
-      url('https://raw.githubusercontent.com/dynamocha/AgencyFBBold/blob/main/AgencyFBBold.ttf') format('ttf'),
-      url('https://raw.githubusercontent.com/dynamocha/AgencyFBBold/blob/main/agency.wof') format('wof');
+    src: url('https://cdn.jsdelivr.net/gh/dynamocha/AgencyFBBold@main/agencyFBBold.css') format('otf');
     font-weight: 700;
     font-style: normal;
 } 
